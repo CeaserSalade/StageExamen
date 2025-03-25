@@ -44,7 +44,7 @@ De applicatie biedt een overzicht van alle beschikbare diensten, toont de kosten
 
 * Er is een knop met configureerbare text direct onder de lijst van diensten.
 
-* Bij een klik wordt de data via JavaScript met een POST-request naar de webhook verzonden.
+* Bij het klikken van de knop wordt de data via JavaScript met een POST-request naar de webhook verzonden.
 
 * De webhook moet configureerbaar zijn, zodat de eindgebruiker de URL kan aanpassen aan zijn eigen systeem.
 
