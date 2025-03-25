@@ -42,16 +42,16 @@ De applicatie biedt een overzicht van alle beschikbare diensten, toont de kosten
 ## Bevestigingsknop waarmee het totaal verzonden kan worden naar een webhook.
 ### Voeg een knop toe waarmee de geselecteerde diensten en het totaal aantal serviceminuten naar een webhook worden verzonden.
 
-* Er is een configureerbare knop onderin toe.
+* Er is een knop met configureerbare text direct onder de lijst van diensten.
 
-* Bij klikken wordt de data met javascript een POST request verzonden naar de webhook.
+* Bij een klik wordt de data via JavaScript met een POST-request naar de webhook verzonden.
 
-* Configureerbare webhook.
+* De webhook moet configureerbaar zijn, zodat de eindgebruiker de URL kan aanpassen aan zijn eigen systeem.
 
 ## Intuïtieve en responsieve gebruikersinterface geschikt voor desktop en mobiel.
 ### Ontwikkel een gebruiksvriendelijke en responsive interface.
 
-* De widget werkt goed op desktop, tablet en telefoon schermformaten.
+* De widget werkt goed op desktop (≥1024 px breed), tablet (768 px – 1023 px breed) en telefoon (≤767 px breed) schermformaten.
 
 * Een gebruiker moet binnen maximaal 3 klikken een dienst kunnen selecteren en het aantal kunnen instellen.
 
