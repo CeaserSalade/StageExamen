@@ -35,23 +35,29 @@ De applicatie biedt een overzicht van alle beschikbare diensten, toont de kosten
 * De weergegeven totaalwaarde is correct.
 
 ## Weergave van het totaal aantal geselecteerde serviceminuten op de interface.
-### Toon het totaal aantal serviceminuten op een duidelijke plek in de interface.
+### Toon het totaal aantal serviceminuten onderin, net boven de knop om het te bevestigen.
 
 * De totaalwaarde is zichtbaar en duidelijk leesbaar.
 
 ## Bevestigingsknop waarmee het totaal verzonden kan worden naar een webhook.
 ### Voeg een knop toe waarmee de geselecteerde diensten en het totaal aantal serviceminuten naar een webhook worden verzonden.
 
-* Er is een “Bevestigen” knop.
+* Er is een configureerbare knop onderin toe.
 
-* Bij klikken wordt de data correct verzonden naar de webhook.
+* Bij klikken wordt de data met javascript een POST request verzonden naar de webhook.
+
+* Configureerbare webhook.
 
 ## Intuïtieve en responsieve gebruikersinterface geschikt voor desktop en mobiel.
 ### Ontwikkel een gebruiksvriendelijke en responsive interface.
 
-* De widget werkt goed op verschillende schermformaten.
+* De widget werkt goed op desktop, tablet en telefoon schermformaten.
 
-* De bediening is eenvoudig en intuïtief.
+* Een gebruiker moet binnen maximaal 3 klikken een dienst kunnen selecteren en het aantal kunnen instellen.
+
+* 80% van de testgebruikers moet de widget kunnen gebruiken zoals deze bedoeld is zonder extra uitleg.
+
+* De widget moet binnen 500ms reageren op interacties (zoals klikken, invoer, filteren).
 
 ## Diensten worden beheerd in een collectie en de widget is daaraan gekoppeld.
 ### Zorg ervoor dat de widget de diensten ophaalt uit een vooraf gedefinieerde collectie.
@@ -59,4 +65,4 @@ De applicatie biedt een overzicht van alle beschikbare diensten, toont de kosten
 * De widget laadt de juiste diensten uit de gekoppelde collectie.
 
 ## Doelgroep
-De klanten van GraagGoedOnline
+De klanten van GraagGoedOnline.nl B.V.
