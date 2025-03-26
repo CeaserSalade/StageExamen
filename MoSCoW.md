@@ -20,7 +20,7 @@
 * Aanpasbare styling
 * Meerdere webhooks
 
-# Won't have
+## Won't have
 
 * Offline functionaliteit
-* Geavanceerde rapportage
+* Geavanceerde rapportage (Een uitgebreide rapportage- of analysefunctie van de geselecteerde diensten en hun kosten.)
