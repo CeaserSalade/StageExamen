@@ -7,6 +7,7 @@
 * Berekening van totaal serviceminuten
 * Bevestigingsknop & webhook-integratie
 * Filterfunctie voor diensten
+* Kopelling collectie
 
 ## Should have
 
