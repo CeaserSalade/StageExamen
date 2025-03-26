@@ -5,22 +5,18 @@
 * Diensten weergeven in een lijst
 * Maximum aantal afnames per dienst
 * Berekening van totaal serviceminuten
-* Weergave van totaal serviceminuten
 * Bevestigingsknop & webhook-integratie
+* Filterfunctie voor diensten
 
 ## Should have
 
-* Filterfunctie voor diensten
 * Responsieve UI
 * Eenvoudige bediening
-* Koppeling met externe collectie
 
 ## Could have
 
-* Aanpasbare styling
-* Meerdere webhooks
+* Aanpasbare styling (widget design paneel)
 
 ## Won't have
 
-* Offline functionaliteit
-* Geavanceerde rapportage (Een uitgebreide rapportage- of analysefunctie van de geselecteerde diensten en hun kosten.)
+* Resterende serviceminuten van Intercom gebruiken
