@@ -7,3 +7,4 @@ Ik geef deze sprint een 9
 
 ## Verbeterspunten
 * Sprintreview eerder inplannen i.p.v. einde van de dag laten weten. En dat het in de agenda staat voor zekerheid.
+* Beter notuleren tijdens meetings.
