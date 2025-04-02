@@ -22,3 +22,8 @@ Resultaat: Voor elke dienst die je selecteerd zie het totaal direct aangepast wo
 ## Koppeling collectie
 * 
 Resultaat: 
+
+## Filter
+* Filter knop zodat je kunt kiezen welke diensten je wilt tonene.
+* Er is een menu waar je kunt kiezen wat je ziet.
+Resultaat: Filter knop met dropdown zodat je kunt kiezen welke je selectie je wilt hebben en toont dan alleen deze diensten.
