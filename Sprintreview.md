@@ -5,3 +5,8 @@
 * Items dynamisch laten weergeven i.p.v. hardcoded.
 * Maak een testingsplan om taken goed uit te voeren.
 * Trek een conclusie zodat je ziet dat de goed is uitgevoerd, als de conclusie niet overeen komt dan klopt het niet.
+
+## Besproken sprint 2
+* Van te voren even up to date bringen i.p.v. meteen demo laten zien, zodat iedereen weet wat er afgesproken was.
+* Backlog meteen aanpassen, niet in testing laten staan als je het al getest hebt.
+* Could have niet wegstoppen, maar laten zien dat je erover nadenk dat wat er gebeurd na je examen met dit project.
