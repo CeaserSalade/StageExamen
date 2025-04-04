@@ -20,10 +20,15 @@ Resultaat: Alles staat nu in een lijst zodat je duidelijk kunt zien welke dienst
 Resultaat: Voor elke dienst die je selecteerd zie het totaal direct aangepast worden.
 
 ## Koppeling collectie
-* 
-Resultaat: 
+* Koppeling met Google spreadsheet, waar alle data instaat voor de widget.
+Resultaat: Gekoppeld en geeft nu de data weer zoals het zou moeten.
 
 ## Filter
 * Filter knop zodat je kunt kiezen welke diensten je wilt tonene.
 * Er is een menu waar je kunt kiezen wat je ziet.
 Resultaat: Filter knop met dropdown zodat je kunt kiezen welke je selectie je wilt hebben en toont dan alleen deze diensten.
+
+## Webhook
+* Stuurt de totale minuten door naar Zapier.
+* Stuurt de hoeveelheid geselecteerde diensten en de naam van de diensten door zodat je ziet wat het is hoeveel, want met alleen minuten heb je niks.
+Resultaat: Zapier ontvang de juiste informatie en geeft de minuten, naam en hoeveelheid diensten weer.
