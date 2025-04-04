@@ -13,7 +13,7 @@ Deze sprint heb ik 20 uur dus hebben we gekozen om 21 punten op te pakken.
 * Filter #1
 * Bevestigknop #6
 
-# Sprintplanning 04/04/2025
+# Sprintplanning 08/04/2025
 
 Afgelopen sprint hadden we 21 punten opgegeven voor een sprint van 20 uur.
 Deze sprint heb ik 6 punten zodat het project goed kan afronden zonder dat dingen open staan.
