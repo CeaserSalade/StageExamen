@@ -2,6 +2,7 @@
 ## Testomgeving:
 * OS: Windows 10
 * Browswers: Google Chrome
+* Apparaten: Desktop, tablet, telefoon
 
 # Sprint 1:
 * Overzicht beschikbare diensten
