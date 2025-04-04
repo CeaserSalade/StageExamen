@@ -32,7 +32,7 @@ Resultaat: Gekoppeld en geeft nu de data weer zoals het zou moeten.
 * Webhook intergratie
 
 ## Filter
-* Filter knop zodat je kunt kiezen welke diensten je wilt tonene.
+* Filter knop zodat je kunt kiezen welke diensten je wilt tonen.
 * Er is een menu waar je kunt kiezen wat je ziet.
 
 Resultaat: Filter knop met dropdown zodat je kunt kiezen welke je selectie je wilt hebben en toont dan alleen deze diensten.
