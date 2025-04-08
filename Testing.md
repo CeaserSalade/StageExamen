@@ -42,3 +42,18 @@ Resultaat: Filter knop met dropdown zodat je kunt kiezen welke je selectie je wi
 * Stuurt de hoeveelheid geselecteerde diensten en de naam van de diensten door zodat je ziet wat het is hoeveel, want met alleen minuten heb je niks.
 
 Resultaat: Zapier ontvang de juiste informatie en geeft de minuten, naam en hoeveelheid diensten weer.
+
+# Sprint 3:
+* Responsive UI #6
+* Eenvoudige bediening #9
+
+## Eenvoudige bediening
+* Een gebruiker kan binnen 3 klikken een dienst kiezen en instellen.
+* 80% van de testgebruikers moet dit zonder uitleg kunnen.
+* De widget reageert in minder dan 500ms.
+
+Resultaat: Via de content editor kan je een dienst toevoegen binnen 3 klikken en de widget reageerd binnen 500ms
+
+## Repsonsive UI
+* 
+
