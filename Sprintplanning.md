@@ -20,4 +20,4 @@ Deze sprint heb ik 6 punten zodat het project goed kan afronden zonder dat dinge
 Waar ik deze sprint aan werk is:
 
 * Responsive UI #6
-* Eenvoudige bediening *9
+* Eenvoudige bediening #9
