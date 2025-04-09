@@ -12,3 +12,5 @@
 * Could have niet wegstoppen, maar laten zien dat je erover nadenk dat wat er gebeurd na je examen met dit project.
 
 ## Besproken sprint 3
+* Testcriteria volgen of zeggen dat het niet gelukt is, nu is 1 iemand geteste en dat is dan niet persee 100%.
+* Laatste aanpassingen zoals automatisch hoogte kan nog na het examen opgepakt worden.
