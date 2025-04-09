@@ -29,5 +29,5 @@ Ik geef deze sprint een 8
 * Ik heb een beetje aan de design editor heb kunnen werken.
 
 ## Verbeteringspunten
-* Dat ik de design editor niet heb af kunnen ronden (zodat de could haves ook af waren gerond).
+* Dat ik de design editor niet heb af kunnen ronden (zodat de planning helemaal leeg is).
 * 
