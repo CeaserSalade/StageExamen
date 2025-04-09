@@ -52,8 +52,10 @@ Resultaat: Zapier ontvang de juiste informatie en geeft de minuten, naam en hoev
 * 80% van de testgebruikers moet dit zonder uitleg kunnen.
 * De widget reageert in minder dan 500ms.
 
-Resultaat: Via de content editor kan je een dienst toevoegen binnen 3 klikken en de widget reageerd binnen 500ms
+Resultaat: Via de content editor kan je een dienst toevoegen binnen 3 klikken worden toegevoegd, de widget reageerd binnen de toegestaande 500ms
 
 ## Repsonsive UI
-* 
+* De widget schaalt correct op desktop, tablet en mobiel.
+
+Resultaat: De widget ziet er goed uit op de 3 afgesproken formaten en blijft goed leesbaar.
 
