@@ -19,5 +19,5 @@ Afgelopen sprint hadden we 21 punten opgegeven voor een sprint van 20 uur.
 Deze sprint heb ik 6 punten zodat het project goed kan afronden zonder dat dingen open staan.
 Waar ik deze sprint aan werk is:
 
-* Responsive UI #6
+* Responsive UI #7
 * Eenvoudige bediening #9
