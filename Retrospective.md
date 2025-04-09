@@ -27,7 +27,7 @@ Ik geef deze sprint een 8
 ## Dingen die goed gingen
 * Ik ben blij dat ik de should haves af heb kunnen ronden deze sprint.
 * Ik heb een beetje aan de design editor heb kunnen werken.
+* Sprintreview had deze keer een goede opbouw, begon met wat we afgesproken hadden en gingen toen pas in de demo.
 
 ## Verbeteringspunten
 * Dat ik de design editor niet heb af kunnen ronden (zodat de planning helemaal leeg is).
-* 
