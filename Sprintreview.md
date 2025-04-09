@@ -10,3 +10,5 @@
 * Van te voren even up to date bringen i.p.v. meteen demo laten zien, zodat iedereen weet wat er afgesproken was.
 * Backlog meteen aanpassen, niet in testing laten staan als je het al getest hebt.
 * Could have niet wegstoppen, maar laten zien dat je erover nadenk dat wat er gebeurd na je examen met dit project.
+
+## Besproken sprint 3
