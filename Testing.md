@@ -60,3 +60,10 @@ Ik heb een collega de widget laten testen en die kon zonder mijn hulp een dienst
 
 Resultaat: De widget ziet er goed uit op de 3 afgesproken formaten en blijft goed leesbaar.
 
+## Aanpasbare styling
+* Lettertype aanpasbaar
+* Kleuren aanpasbaar
+* Filter dropdown aanpasbaar
+* Bevestigknop aanpasbaar
+
+Resultaat: Lettertype van de header en dienstenlijst is aanpasbaar, kleuren zijn ook aanpasbaar
