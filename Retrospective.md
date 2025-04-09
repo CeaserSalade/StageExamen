@@ -21,3 +21,5 @@ Ik geef deze sprint een 9
 ## Verbeteringspunten
 * Structuur van de sprintreview beter inrichting, zodat het wat soepeler verloopt. 
 (Niet direct de demo laten zien, maar eerst laten zien wat er besproken was, zodat de product eigenaar weet waar ik mee bezig ben geweest.)
+
+# Retrospective sprint 3
