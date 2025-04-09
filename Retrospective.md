@@ -23,3 +23,9 @@ Ik geef deze sprint een 9
 (Niet direct de demo laten zien, maar eerst laten zien wat er besproken was, zodat de product eigenaar weet waar ik mee bezig ben geweest.)
 
 # Retrospective sprint 3
+Ik geef deze sprint een 8
+## Dingen die goed gingen
+* 
+
+## Verbeteringspunten
+* 
