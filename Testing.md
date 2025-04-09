@@ -67,3 +67,6 @@ Resultaat: De widget ziet er goed uit op de 3 afgesproken formaten en blijft goe
 * Bevestigknop aanpasbaar
 
 Resultaat: Lettertype van de header en dienstenlijst is aanpasbaar, kleuren zijn ook aanpasbaar
+
+# Conclusie:
+Applicatie voldoet aan de testdoelen en de functionaliteiten werken zoals beschreven in de opdracht zonder problemen.
