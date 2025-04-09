@@ -25,7 +25,9 @@ Ik geef deze sprint een 9
 # Retrospective sprint 3
 Ik geef deze sprint een 8
 ## Dingen die goed gingen
-* 
+* Ik ben blij dat ik de should haves af heb kunnen ronden deze sprint.
+* Ik heb een beetje aan de design editor heb kunnen werken.
 
 ## Verbeteringspunten
+* Dat ik de design editor niet heb af kunnen ronden (zodat de could haves ook af waren gerond).
 * 
